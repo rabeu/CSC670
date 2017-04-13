@@ -1,0 +1,9 @@
+C:\Users\marce\Dropbox\nu\CSC670\week1_assignment\week1assignment\week1assignment\bin\Debug\week1assignment.exe.config
+C:\Users\marce\Dropbox\nu\CSC670\week1_assignment\week1assignment\week1assignment\bin\Debug\week1assignment.exe
+C:\Users\marce\Dropbox\nu\CSC670\week1_assignment\week1assignment\week1assignment\bin\Debug\week1assignment.pdb
+C:\Users\marce\Dropbox\nu\CSC670\week1_assignment\week1assignment\week1assignment\obj\Debug\week1assignment.csprojResolveAssemblyReference.cache
+C:\Users\marce\Dropbox\nu\CSC670\week1_assignment\week1assignment\week1assignment\obj\Debug\week1assignment.Form1.resources
+C:\Users\marce\Dropbox\nu\CSC670\week1_assignment\week1assignment\week1assignment\obj\Debug\week1assignment.Properties.Resources.resources
+C:\Users\marce\Dropbox\nu\CSC670\week1_assignment\week1assignment\week1assignment\obj\Debug\week1assignment.csproj.GenerateResource.Cache
+C:\Users\marce\Dropbox\nu\CSC670\week1_assignment\week1assignment\week1assignment\obj\Debug\week1assignment.exe
+C:\Users\marce\Dropbox\nu\CSC670\week1_assignment\week1assignment\week1assignment\obj\Debug\week1assignment.pdb
